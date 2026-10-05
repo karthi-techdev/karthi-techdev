@@ -1,302 +1,240 @@
-# Hi, I'm Karthi Rajendran 👋
+# Hi, I'm Karthi Rajendhiran 👋
 
-### Full Stack Developer | React • TypeScript • Next.js • Node.js
+### Full Stack Software Engineer | GenAI • React.js • Next.js • Node.js • TypeScript
 
-I’m a Full Stack Developer focused on building **modern, scalable, and production-oriented web applications**.
+Full Stack Software Engineer with **3 years of experience** building scalable, real-time and event-driven applications.
 
-I work across the complete application stack — from responsive frontend interfaces and reusable component systems to REST APIs, authentication, databases, and deployment workflows.
+I specialize in **React.js, Next.js, Node.js, Express.js and TypeScript**, with hands-on experience in **Kafka, Redpanda, Redis, microservices, real-time communication, databases, CI/CD and cloud deployments**.
 
-I enjoy turning ideas into working products and continuously improving my skills in **software architecture, system design, performance, testing, and modern web technologies**.
+I'm also exploring **Generative AI and AI-assisted software development**, including **OpenAI APIs, Claude Code and MCP**.
 
----
-
-## 🚀 About Me
-
-- 💻 Full Stack Developer focused on **React, TypeScript, Next.js & Node.js**
-- ⚛️ Strong interest in **frontend architecture and reusable component systems**
-- 🧩 Experience building applications using **Atomic Design principles**
-- 🔐 Experience with **JWT authentication, RBAC and secure API integration**
-- 🗄️ Backend experience with **Node.js, Express.js, MongoDB, MySQL & Redis**
-- 🛠️ Comfortable working with **REST APIs, state management and database-driven applications**
-- 🧪 Interested in **testing, code quality and maintainable architecture**
-- 🚀 Experience with **Git, Docker, Jenkins, CI/CD, Vercel and OpenShift**
-- 📚 Currently expanding my knowledge in **system design, distributed systems and scalable architectures**
+Currently working on large-scale banking applications supporting **2M+ active customers across multiple regional entities**.
 
 ---
 
-# 🧰 Tech Stack
+## 👨‍💻 About Me
+
+- 💻 Full Stack Software Engineer with 3 years of professional experience
+- ⚛️ Specialized in React.js, Next.js and TypeScript
+- 🟢 Strong backend experience with Node.js and Express.js
+- ⚡ Experienced in event-driven and real-time applications
+- 📡 Hands-on experience with Kafka, Redpanda, WebSockets and Server-Sent Events
+- 🗄️ Experienced with MongoDB, PostgreSQL, MySQL and Redis
+- 🔐 Experienced in JWT authentication and RBAC
+- 🏗️ Experience with Microservices and Micro Frontends
+- 🚀 Experienced with OpenShift, Jenkins, Docker and CI/CD
+- 📊 Experience with Elasticsearch, Kibana and Grafana
+- 🧪 Experience with Jest, Postman, Swagger UI and SonarQube
+- 🧩 Apply SOLID principles and Atomic Design
+- 🤖 Exploring **Generative AI and AI-assisted development**
+- 🧠 Working with **OpenAI APIs, Claude Code and MCP**
+- 🎯 Interested in scalable systems, distributed systems, GenAI and system design
+
+---
+
+# 🛠️ Technical Skills
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**JavaScript • TypeScript • Python**
+
+---
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### State Management & UI
-
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-### Backend
+**React.js • Next.js • Redux • Tailwind CSS • Material UI • Module Federation**
+
+---
+
+### Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Databases & Infrastructure
+**Node.js • Express.js • REST APIs • Strapi**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+---
+
+### Event Streaming & Real-Time
+
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-### DevOps & Engineering
+**Apache Kafka • Redpanda • WebSockets • Server-Sent Events (SSE)**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+### Databases & Caching
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**MongoDB • PostgreSQL • MySQL • Redis**
+
+---
+
+### DevOps & Cloud
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**OpenShift • Jenkins • Docker • CI/CD • Git • Vercel • cPanel**
 
 ---
 
-# 🏗️ Engineering Practices
+### Monitoring & Quality
 
-I’m particularly interested in building applications that are:
-
-- 🧩 Component-driven
-- ♻️ Reusable and maintainable
-- 📐 Based on clean architecture principles
-- 🔐 Secure and authentication-aware
-- 📡 API-driven
-- 📱 Responsive across devices
-- 🧪 Testable
-- 🚀 Performance-conscious
-- 📈 Scalable
-
-### Architecture & Development
-
-- Atomic Design
-- Component-driven development
-- SOLID principles
-- RESTful API design
-- Separation of concerns
-- Reusable UI systems
-- State management
-- Authentication & Authorization
-- RBAC
-- Form validation
-- File uploads
-- Pagination & filtering
-- CRUD architecture
+**Elasticsearch • Kibana • Grafana • SonarQube • Jest • Postman • Swagger UI**
 
 ---
 
-# 🔥 Featured Projects
+### Generative AI & AI-Assisted Development
 
-## 📍 BookAdZone
+🤖 **Generative AI**
 
-A modern advertising/property platform built around a scalable frontend architecture.
-
-**Tech:** Next.js • React • TypeScript • Tailwind CSS • Zustand • REST APIs • Atomic Design
-
-### Highlights
-
-- Atomic Design component architecture
-- Responsive UI
-- API-driven application
-- Reusable UI components
-- Property/advertising workflows
-- Separate administrative application
-- Modern Next.js architecture
-
-🔗 Explore: [BookAdZone](https://github.com/karthi-techdev/bookadzone-site-next)
+- OpenAI APIs
+- Claude Code
+- MCP
+- AI-assisted software development
+- AI-powered developer workflows
+- AI-assisted coding and productivity
 
 ---
 
-## 🛠️ BookAdZone Admin
+### Architecture & Methodologies
 
-Administrative dashboard for managing the BookAdZone platform.
-
-**Tech:** React • TypeScript • Vite • Tailwind CSS • Zustand • Axios • React Hook Form
-
-### Highlights
-
-- Dashboard architecture
-- Authentication
-- CRUD operations
-- Data tables
-- Search and filtering
-- Pagination
-- Form management
-- API integration
-- File uploads
-- Reusable components
-- Testing setup
-
-🔗 Explore: [BookAdZone Admin](https://github.com/karthi-techdev/bookadzone-admin)
+**Microservices • Micro Frontends • SOLID Principles • Atomic Design • RBAC • Agile • Scrum • Kanban • Sprint Planning**
 
 ---
 
-## 🛒 Kartian Ecommerce
+# 💼 Professional Experience
 
-A full-stack e-commerce application demonstrating frontend, backend, authentication and database integration.
+## Software Engineer
 
-**Frontend:** React • Redux Toolkit • React Router • Axios • Bootstrap
+### D4 Insight Pvt Ltd
 
-**Backend:** Node.js • Express.js • MongoDB • Mongoose • JWT
+**Jul 2025 – Present | Chennai, India**
 
-### Highlights
+Working on the **ENBD X Banking Application for Emirates National Bank of Dubai**, supporting banking systems serving **2M+ active customers across 5 regional entities**.
 
-- Full-stack architecture
-- REST API integration
-- Authentication
-- Database-driven workflows
-- Redux state management
-- Product management
-- E-commerce workflows
+### Key Contributions
 
-🔗 Explore: [Kartian Frontend](https://github.com/karthi-techdev/kartian-frontend)
-
----
-
-## 📊 Admin & Business Applications
-
-I've worked on multiple business-oriented applications involving:
-
-- Admin dashboards
-- Data tables
-- CRUD operations
-- Authentication
-- Role-based access
-- Search & filtering
-- Pagination
-- Forms
-- API integration
-- Charts and analytics
-- File management
-
-These projects use modern technologies such as **React, TypeScript, Vite, Tailwind CSS, Zustand, React Hook Form and Axios**.
+- Engineered distributed, event-driven microservices handling real-time core banking data and high-volume transaction flows.
+- Built an Event Processor service connecting legacy core banking engines with modern applications using Redpanda.
+- Delivered real-time credit card workflows including lock/unlock, limit adjustments and balance status changes.
+- Replaced client-side polling with **Server-Sent Events** for live transaction and account updates.
+- Implemented Redis caching for high-frequency account lookups and session state.
+- Worked across multiple regional banking entities with different regulatory requirements.
+- Modernized legacy Angular banking screens into modular and reusable React components.
+- Worked with Jenkins and OpenShift CI/CD pipelines for automated builds and containerized deployments.
+- Worked with SonarQube, Elasticsearch, Kibana and Grafana for code quality, monitoring and observability.
+- Volunteered as a **Scrum Master**, facilitating standups, sprint planning and release coordination.
 
 ---
 
-## ✈️ DGCA RTR Simulator
+## Full Stack Developer
 
-A practice simulator focused on the **DGCA Radio Telephony Restricted (RTR)** examination domain.
+### Avenstek Solutions Pvt Ltd
 
-This project reflects my interest in building applications for specialized real-world use cases beyond standard CRUD applications.
+**Nov 2023 – Jul 2025 | Chennai, India — Remote**
 
-🔗 Explore: [DGCA RTR Simulator](https://github.com/karthi-techdev/DGCA-RTR-Simulator)
+Worked on full-stack web applications, contributing across frontend, backend, databases, authentication and application development.
+
+### Key Contributions
+
+- Developed full-stack applications using React.js, Next.js, Node.js and Express.js.
+- Designed MongoDB schemas and REST APIs.
+- Built reusable UI components using Atomic Design principles.
+- Implemented JWT authentication and Role-Based Access Control.
+- Developed role-based workflows for different user types.
+- Integrated MapLibre and OpenStreetMap for interactive map-based functionality.
+- Implemented Redux-based state management.
+- Developed responsive interfaces using Tailwind CSS.
+- Built real-time job tracking and scheduling functionality.
+- Worked directly with stakeholders to translate business requirements into technical solutions.
+
+---
+
+# 🧠 Areas of Interest
+
+- Generative AI
+- AI-assisted software engineering
+- Full Stack Development
+- Distributed Systems
+- Event-Driven Architecture
+- Microservices
+- Real-Time Applications
+- System Design
+- Scalable Web Applications
+- Cloud & DevOps
+- Developer Productivity
 
 ---
 
 # 📚 Currently Learning
 
-I'm continuously improving my understanding of:
-
+- Generative AI
+- AI Engineering
 - System Design
-- Scalable Web Architecture
 - Distributed Systems
+- Event-Driven Architecture
 - Microservices
-- Event-driven Architecture
-- Redis
-- Kafka
+- Scalable Web Applications
+- Advanced TypeScript
 - Performance Optimization
 - Cloud Architecture
-- Advanced TypeScript
-- Testing & Code Quality
-- CI/CD
 
 ---
 
-# 🧪 Testing & Code Quality
+# 🎓 Education
 
-Tools and practices I work with include:
+### Master of Computer Application
 
-- Jest
-- React Testing Library
-- Postman
-- SonarQube
-- ESLint
-- API testing
-- Component testing
-- Code quality analysis
+**Kalasalingam Academy of Research and Education**
 
----
+**Jan 2024 – Apr 2026**
 
-# ☁️ DevOps & Deployment
+### Bachelor of Commerce
 
-Experience and hands-on exposure with:
+**Dr. M.G.R Educational and Research Institute**
 
-- Git & GitHub
-- Docker
-- Jenkins
-- CI/CD pipelines
-- OpenShift
-- Vercel
-- Environment configuration
-- Production deployment workflows
+**Nov 2020 – Apr 2023**
 
 ---
 
-# 🎯 What I Like Building
+# 📜 Certification
 
-I'm particularly interested in building:
+### Full Stack Development — MERN Stack
 
-```text
-Modern Web Applications
-        ↓
-React / Next.js
-        ↓
-Reusable Component Architecture
-        ↓
-REST APIs
-        ↓
-Node.js / Express
-        ↓
-MongoDB / MySQL / Redis
-        ↓
-Testing + CI/CD
-        ↓
-Cloud Deployment
-```
+**Dr. APJ Dreamtech**
+
+**May 2023 – Oct 2023**
 
 ---
 
-# 🤝 Let's Connect
+# 🌐 Connect With Me
 
-I'm always interested in connecting with developers, engineers, recruiters and teams working on interesting products.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthi-rajendhiran/)
 
-### 🌐 Portfolio
-
-[Visit my Portfolio](https://karthi-techdev.github.io/Karthi-Portfolio/)
-
-### 💼 LinkedIn
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/karthi-rajendhiran/)
-
-### 🐙 GitHub
-
-[Explore my repositories](https://github.com/karthi-techdev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://karthi-techdev.github.io/Karthi-Portfolio/)
 
 ---
 
-# 💡 Developer Philosophy
+### 💡 Engineering Philosophy
 
-> Build things. Break things. Understand why they broke. Fix them better.
+> **Build real systems. Learn continuously. Embrace new technology. Keep improving.**
 
-I believe the best way to become a better engineer is to **build real products, understand the systems behind them, and continuously improve the way you write software.**
-
----
-
-⭐ If you find something useful in my repositories, feel free to explore, learn and connect.
-
-**Thanks for visiting my profile! 🚀**
+Thanks for visiting my profile! 🚀
